@@ -27,8 +27,8 @@ Agradecemos a todos los colaboradores que han contribuido al proyecto IoT UAC, y
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo `LICENSE.md` para más detalles.
+Este proyecto está licenciado bajo la Licencia GNU - ver el archivo `LICENSE.md` para más detalles.
 
 ## Contacto
 
-Si tienes alguna pregunta, sugerencia o comentario sobre el proyecto IoT UAC, no dudes en contactarnos a través de [nuestro correo electrónico] o [nuestro canal de Slack]. Estaremos encantados de escucharte y de ayudarte en lo que podamos.
+Si tienes alguna pregunta, sugerencia o comentario sobre el proyecto IoT UAC, no dudes en contactarnos a través de mrodriguez.angel@fuac.edu.co o nuestro canal de Slack #software-iot. Estaremos encantados de escucharte y de ayudarte en lo que podamos.
