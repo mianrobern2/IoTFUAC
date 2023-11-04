@@ -24,7 +24,7 @@ Este proyecto es un esfuerzo colaborativo y estamos abiertos a contribuciones de
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo `LICENSE.md` para más detalles.
+Este proyecto está licenciado bajo la Licencia GNU General Public License v3.0 - ver el archivo `LICENSE.md` para más detalles.
 
 ## Contacto
 
