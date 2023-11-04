@@ -25,7 +25,7 @@ Este proyecto está licenciado bajo la Licencia GNU General Public License v3.0 
 
 ## Contacto
 
-Si tienes preguntas o sugerencias sobre el proyecto, no dudes en contactarnos a través de [nuestro correo electrónico] o [nuestra página de GitHub].
+Si tienes preguntas o sugerencias sobre el proyecto, no dudes en contactarnos a través de mrodriguez@fuac.edu.co o https://github.com/mianrobern2.
 
 ---
 
