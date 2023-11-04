@@ -1,6 +1,3 @@
-Claro, estaré encantado de ayudarte a escribir la descripción para tu repositorio de GitHub que contiene un proyecto de IoT para la Universidad Autónoma de Colombia. Aquí tienes una propuesta de descripción que puedes usar y personalizar según las necesidades de tu proyecto:
-
-```markdown
 # Proyecto IoT Universidad Autónoma de Colombia
 
 Este repositorio contiene el código fuente y la documentación de un proyecto innovador de Internet de las Cosas (IoT) desarrollado por estudiantes de la Universidad Autónoma de Colombia. El proyecto tiene como objetivo diseñar y construir soluciones inteligentes para mejorar la vida en el campus universitario, utilizando la tecnología IoT para conectar y gestionar dispositivos de forma eficiente.
@@ -34,7 +31,3 @@ Si tienes preguntas o sugerencias sobre el proyecto, no dudes en contactarnos a 
 
 Esperamos que este proyecto contribuya significativamente al avance de la tecnología IoT y al bienestar de la comunidad universitaria.
 ```
-
-Recuerda reemplazar `[nuestro correo electrónico]` y `[nuestra página de GitHub]` con la información de contacto real y los enlaces correspondientes a tu proyecto. También, asegúrate de incluir cualquier otra sección que consideres importante para describir adecuadamente tu proyecto, como 'Instalación', 'Uso', 'Contribuyentes', etc.
-
-Espero que esta descripción te sea útil y te deseo mucho éxito con tu proyecto. Si necesitas más ayuda, no dudes en preguntar. ¡Estoy aquí para asistirte!
